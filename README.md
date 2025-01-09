@@ -24,4 +24,4 @@
       
 - 6-Cell_communication.R
   
-    - This is
+    - This code focuses on the analysis of cell communication, specifically examining the data from BMO-2023 and RBMOs. The goal is to elucidate the interactions and signaling pathways involved in cellular communication, leveraging the datasets to derive meaningful insights.
