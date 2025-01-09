@@ -14,11 +14,14 @@
   
     - This code focuses on the reading and processing of data from fetal bone marrow and adult bone marrow, as well as the integration and correlation analysis of fetal bone marrow and RBMOs data, and adult bone marrow and RBMOs data. Additionally, it encompasses the integration and correlation analysis of fetal bone marrow, adult bone marrow, and RBMOs data.
 
-- 4-Monocle3.R
+- 4-Pseudotime_trajectory_analysis.R
   
     - This code performs pseudotime trajectory analysis on erythrocytes derived from RBMOs. It also analyzes the differences in gene expression at various stages of erythrocyte development using pseudotime trajectory analysis.
       
 - 5-RBMOs_BMO-2023_Data_integration.R
-    - This is
+  
+    - This code pertains to the reading, processing, integration, and cell annotation of the BMO-2023 dataset. Furthermore, it includes the integration and cell annotation of BMO-2023, RBMOs and RBMOs-Blood datasets.
+      
 - 6-Cell_communication.R
+  
     - This is
