@@ -1,6 +1,4 @@
 # RBMOs
-## OverView
-"Ex Vivo Generation and Characterization of Erythrocytes Egress from Mechanical Stress-Optimized Human Bone Marrow Organoids" paper related code
 ## Introduction
 - 1-RBMOs_seurat.R
 
